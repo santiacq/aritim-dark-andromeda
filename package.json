@@ -1,0 +1,21 @@
+{
+    "name": "aritim-dark-andromeda",
+    "displayName": "Aritim-Dark Andromeda",
+    "description": "Dark theme with a taste of the universe",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Aritim-Dark Andromeda",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Aritim-Dark Andromeda-color-theme.json"
+            }
+        ]
+    }
+}
